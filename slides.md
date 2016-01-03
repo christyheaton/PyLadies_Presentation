@@ -12,15 +12,15 @@ _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
 ## Where I work
 SGSI - Schlosser Geographic Systems Inc
 
-_VAR of Pitney Bowes products
+_VAR of Pitney Bowes products_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_Spectrum Spatial
+_Spectrum Spatial_<!-- .element: class="fragment" data-fragment-index="2" -->
 
-_Mapinfo Pro for Desktop Mapping
+_Mapinfo Pro for Desktop Mapping_<!-- .element: class="fragment" data-fragment-index="3" -->
 
-_Custom applications
+_Custom applications_<!-- .element: class="fragment" data-fragment-index="4" -->
 
-_Customers are telecom companies
+_Customers are telecom companies_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
