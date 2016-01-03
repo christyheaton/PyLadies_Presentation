@@ -37,10 +37,21 @@ _But we needed data for the rest of the world_<!-- .element: class="fragment" da
 
 
 
-## This is a vertical-slide
-You make these by placing 2 line-breaks within the source.
+### Enter [`Open Street Map`](http://www.openstreetmap.org/)
 
-Vertical-slides are good for drilling in to topics. Think of it as a _details_ slide. If you're short on time, you can skip past these slides by moving `RIGHT`.
+
+
+## The Plan
+
+_Download OpenStreetMap data in some kind of database_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Convert to TAB format_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_Add to Spectrum Repository_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+_Style per customer request_<!-- .element: class="fragment" data-fragment-index="4" -->
+
+`Web maps!`
 
 
 
