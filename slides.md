@@ -214,7 +214,7 @@ _Be flexible_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ### It is okay because I learned a lot!
 
-_PostGIS and SQL_<!-- .element: class="fragment" data-fragment-index="1" -->
+_PostGIS, pgAdmin, and SQL_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 _QGIS Desktop and QGIS Python_<!-- .element: class="fragment" data-fragment-index="2" -->
 
@@ -235,10 +235,11 @@ Check out my GitHub!
 
 
 
-### Thank you!
+## Thank you!
+
 alukach of Maptime Calgary for this presentation template
 
-CUGOS
+My friends at CUGOS
 
 MaptimeSEA crew 
 
