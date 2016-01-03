@@ -34,7 +34,7 @@ _But we needed data for the rest of the world_<!-- .element: class="fragment" da
 
 
 
-### Enter [`Open Street Map`](http://www.openstreetmap.org/)
+# Enter [`Open Street Map`](http://www.openstreetmap.org/)
 
 
 ## What is [`Open Street Map`](http://www.openstreetmap.org/)?
@@ -48,7 +48,7 @@ _Crowd sourced!_<!-- .element: class="fragment" data-fragment-index="1" -->
 _Like Wikipedia!_<!-- .element: class="fragment" data-fragment-index="1" --> 
 
 
-## You can also extract data from it for any purpose
+## You can extract data from it
 _For free!_<!-- .element: class="fragment" data-fragment-index="1" --> 
 
 
@@ -144,7 +144,7 @@ IMAGE
 IMAGE
 
 
-## Tags didn’t extract as much as we wanted.
+## Tags did not extract as much as we wanted.
 
 Streets = "highway" like '%residential%' or "highway" like '%service%'
 
@@ -153,7 +153,7 @@ living_street??
 IMAGE
 
 
-## Points of interest weren’t what we needed.
+## Points of interest were not what we needed.
 
 IMAGE
 
@@ -212,7 +212,7 @@ _Be flexible_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ## The Moral of the Story
 
-### It’s okay because I learned a lot!
+### It is okay because I learned a lot!
 
 _MapInfo and Spectrum_<!-- .element: class="fragment" data-fragment-index="1" -->
 
