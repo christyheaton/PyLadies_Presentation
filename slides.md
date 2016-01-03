@@ -19,17 +19,6 @@ _Custom applications._<!-- .element: class="fragment" data-fragment-index="4" --
 
 
 
-# Test
-
-_First._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Second._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Third._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Fourth._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-
 
 ## The Project
 
@@ -118,7 +107,9 @@ Datasets too large
 
 
 ## So I wrote a much longer custom version
+
 Smaller datasets
+
 Pulled out just what we needed into separate files
 
 
@@ -135,27 +126,25 @@ Add to Spectrum Spatial repository.
 
 
 
-## Problems!
+# Problems!
 
-Translation to TAB format from OSM data did not work (TAB exporter is old and bad).
+
+## Translation to TAB format from OSM data did not work (TAB exporter is old and bad).
+
 IMAGE
 
 
-## Problems!
+## Some datasets were huge, produced bad results.
 
-Some datasets were huge, produced bad results.
 IMAGE
 
 
-## Problems!
+## Roads database table only had major roads.
 
-Roads database table only had major roads.
 IMAGE
 
 
-## Problems!
-
-Tags didn’t extract as much as we wanted.
+## Tags didn’t extract as much as we wanted.
 
 Streets = "highway" like '%residential%' or "highway" like '%service%'
 
@@ -164,63 +153,46 @@ living_street??
 IMAGE
 
 
-## Problems!
-
-Points of interest weren’t what we needed.
+## Points of interest weren’t what we needed.
 
 IMAGE
 
 
-## Problems!
-
-Large rivers were missing.
+## Large rivers were missing.
 
 IMAGE
 
 
-## Problems!
-
-All place names had to be in English
+## All place names had to be in English
 
 IMAGE
 
 
-## Problems!
-
-Customer needs kept changing.
+## Customer needs kept changing.
 
 IMAGE
 
 
 
-## Fixes
-
-Used FME Universal Translator.
+# Fixes
 
 
-## Fixes
-
-Split tables and modified script.
+## Used FME Universal Translator.
 
 
-## Fixes
-
-Took smaller roads from Line table.
+## Split tables and modified script.
 
 
-## Fixes
-
-Changed tags on roads and water.
+## Took smaller roads from Line table.
 
 
-## Fixes
-
-Used Points of Interest from customer list.
+## Changed tags on roads and water.
 
 
-## Fixes
+## Used Points of Interest from customer list.
 
-Obtained place names from another source.
+
+## Obtained place names from another source.
 
 
 
