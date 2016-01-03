@@ -9,10 +9,15 @@ _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
-## Follow along
-These slides are created with Reveal.js + Markdown.
+## Where I work
 
-Take a look at the [raw source for the slides](https://raw.githubusercontent.com/MaptimeCalgary/presentation-example/gh-pages/slides.md). The repo can be found [here](https://github.com/MaptimeCalgary/presentation-example).
+SGSI - Schlosser Geographic Systems Inc
+
+_VAR of Pitney Bowes products
+_Spectrum Spatial
+_Mapinfo Pro for Desktop Mapping
+_Custom applications
+_Customers are telecom companies
 
 
 
