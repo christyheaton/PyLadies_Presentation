@@ -9,9 +9,8 @@ _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
-# Where I work
-
-##SGSI - Schlosser Geographic Systems Inc
+## Where I work
+SGSI - Schlosser Geographic Systems Inc
 
 _VAR of Pitney Bowes products
 
