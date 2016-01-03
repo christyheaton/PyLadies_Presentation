@@ -39,6 +39,18 @@ _But we needed data for the rest of the world_<!-- .element: class="fragment" da
 
 ### Enter [`Open Street Map`](http://www.openstreetmap.org/)
 
+_What is Open Street Map?_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+## Free and editable web map.
+Croud sourced
+
+## You can contribute to it.
+Like Wikipedia!
+
+## You can also extract data from it for any purpose
+For free!
+
 
 
 ## The Plan
@@ -51,7 +63,7 @@ _Add to Spectrum Repository_<!-- .element: class="fragment" data-fragment-index=
 
 _Style per customer request_<!-- .element: class="fragment" data-fragment-index="4" -->
 
-`Web maps!`
+_`Web maps!`_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
