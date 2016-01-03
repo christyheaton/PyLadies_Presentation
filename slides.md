@@ -62,7 +62,7 @@ _For free!_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 ## The Plan
 
-_Download [`Open Street Map`](http://www.openstreetmap.org/) in some kind of database_<!-- .element: class="fragment" data-fragment-index="1" -->
+_Download Open Street Map data into some kind of database_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 _Convert to TAB format_<!-- .element: class="fragment" data-fragment-index="2" -->
 
@@ -71,6 +71,47 @@ _Add to Spectrum Repository_<!-- .element: class="fragment" data-fragment-index=
 _Style per customer request_<!-- .element: class="fragment" data-fragment-index="4" -->
 
 _`Web maps!`_<!-- .element: class="fragment" data-fragment-index="5" -->
+
+
+
+## Processing
+
+_Downloaded data into PostGIS databases._<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_One per country so they weren't too big._<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_Python script to extract all the data._<!-- .element: class="fragment" data-fragment-index="3" -->
+
+_Add to Spectrum Spatial repository._<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+
+## More on my Python script
+
+_Since this is CUGOS. :-)_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+## Uses QGIS
+Must be run in the Python window in QGIS
+
+
+# QGIS Modules
+Difficult because documentation is limited
+
+
+# I learned and teach the arcpy module
+Tons of documentation!
+
+
+# I wrote a first version
+Not Customized
+Pulled out all data
+Datasets too large
+
+
+# I wrote a much longer custom version
+Smaller datasets
+Pulled out just what we needed into separate files
 
 
 
@@ -128,3 +169,10 @@ There are a bunch of cool things you can do with **Reveal.js** and **Markdown**.
 Check out Reveal.js' [example slides](http://lab.hakim.se/reveal-js/) for more quick examples of what you can do with Reveal.js.  Check out Reveal.js' [Readme](https://github.com/hakimel/reveal.js/blob/master/README.md) and its [wiki](https://github.com/hakimel/reveal.js/wiki) (especially the [Articles & Tutorials](https://github.com/hakimel/reveal.js/wiki/Articles-&-Tutorials) section) for greater detail about using Reveal.js.  
 
 Check out this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick intro into using Markdown.
+
+
+### Thank you!
+alukach of Maptime Calgary for this presentation template
+CUGOS
+MaptimeSEA crew 
+and others who have helped me!
