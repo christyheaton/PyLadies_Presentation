@@ -40,17 +40,19 @@ _But we needed data for the rest of the world_<!-- .element: class="fragment" da
 ### Enter [`Open Street Map`](http://www.openstreetmap.org/)
 
 
-_What is Open Street Map?_<!-- .element: class="fragment" data-fragment-index="1" -->
+## What is Open Street Map?_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 ## Free and editable web map.
-Crowd sourced!
+_Crowd sourced!_<!-- .element: class="fragment" data-fragment-index="1" --> 
+
 
 ## You can contribute to it.
-Like Wikipedia!
+_Like Wikipedia!_<!-- .element: class="fragment" data-fragment-index="1" --> 
+
 
 ## You can also extract data from it for any purpose
-For free!
+_For free!_<!-- .element: class="fragment" data-fragment-index="1" --> 
 
 
 
