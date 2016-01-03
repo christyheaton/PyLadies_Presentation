@@ -214,15 +214,17 @@ _Be flexible_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ### It is okay because I learned a lot!
 
-_MapInfo and Spectrum_<!-- .element: class="fragment" data-fragment-index="1" -->
+_PostGIS and SQL_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_PostGIS and SQL_<!-- .element: class="fragment" data-fragment-index="2" -->
+_QGIS Desktop and QGIS Python_<!-- .element: class="fragment" data-fragment-index="2" -->
 
-_QGIS Desktop and QGIS Python_<!-- .element: class="fragment" data-fragment-index="3" -->
+_OpenStreetMap Data_<!-- .element: class="fragment" data-fragment-index="3" -->
 
-_OpenStreetMap Data_<!-- .element: class="fragment" data-fragment-index="4" -->
+_SHP to TAB conversion_<!-- .element: class="fragment" data-fragment-index="4" -->
 
-_SHP to TAB conversion_<!-- .element: class="fragment" data-fragment-index="5" -->
+_Regular Expressions_<!-- .element: class="fragment" data-fragment-index="5" -->
+
+_Git and GitHub_<!-- .element: class="fragment" data-fragment-index="6" -->
 
 
 
