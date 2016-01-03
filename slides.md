@@ -40,7 +40,7 @@ _But we needed data for the rest of the world_<!-- .element: class="fragment" da
 ### Enter [`Open Street Map`](http://www.openstreetmap.org/)
 
 
-## What is Open Street Map?_<!-- .element: class="fragment" data-fragment-index="1" -->
+## What is [`Open Street Map`](http://www.openstreetmap.org/)?
 
 
 ## Free and editable web map.
@@ -55,10 +55,14 @@ _Like Wikipedia!_<!-- .element: class="fragment" data-fragment-index="1" -->
 _For free!_<!-- .element: class="fragment" data-fragment-index="1" --> 
 
 
+## Here it is!
+![alt text](assets/OSM_Madrid.PNG "OpenStreetMap")
+
+
 
 ## The Plan
 
-_Download OpenStreetMap data in some kind of database_<!-- .element: class="fragment" data-fragment-index="1" -->
+_Download [`Open Street Map`](http://www.openstreetmap.org/) in some kind of database_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 _Convert to TAB format_<!-- .element: class="fragment" data-fragment-index="2" -->
 
