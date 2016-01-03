@@ -19,6 +19,18 @@ _Custom applications._<!-- .element: class="fragment" data-fragment-index="4" --
 
 
 
+# Test
+
+_First._<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Second._<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Third._<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Fourth._<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+
 ## The Project
 
 A world base map.
@@ -155,24 +167,28 @@ IMAGE
 ## Problems!
 
 Points of interest weren’t what we needed.
+
 IMAGE
 
 
 ## Problems!
 
 Large rivers were missing.
+
 IMAGE
 
 
 ## Problems!
 
 All place names had to be in English
+
 IMAGE
 
 
 ## Problems!
 
-Customer needs kept changing 
+Customer needs kept changing.
+
 IMAGE
 
 
@@ -224,17 +240,17 @@ _Be flexible_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ## The Moral of the Story
 
-### _It’s okay because I learned a lot!_<!-- .element: class="fragment" data-fragment-index="1" -->
+### It’s okay because I learned a lot!
 
-_MapInfo and Spectrum_<!-- .element: class="fragment" data-fragment-index="2" -->
+_MapInfo and Spectrum_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_PostGIS and SQL_<!-- .element: class="fragment" data-fragment-index="3" -->
+_PostGIS and SQL_<!-- .element: class="fragment" data-fragment-index="2" -->
 
-_QGIS Desktop and QGIS Python_<!-- .element: class="fragment" data-fragment-index="4" -->
+_QGIS Desktop and QGIS Python_<!-- .element: class="fragment" data-fragment-index="3" -->
 
-_OpenStreetMap Data_<!-- .element: class="fragment" data-fragment-index="5" -->
+_OpenStreetMap Data_<!-- .element: class="fragment" data-fragment-index="4" -->
 
-_SHP to TAB conversion_<!-- .element: class="fragment" data-fragment-index="6" -->
+_SHP to TAB conversion_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
@@ -245,64 +261,11 @@ Check out my GitHub!
 
 
 
-## You can put images in a slide
-
-![alt text](assets/logo.png "Logo Title Text 1")
-
-![external image](https://raw.githubusercontent.com/maptime/maptime.github.io/master/img/xmaptime-logo-web-header-rainbonly.png.pagespeed.ic.sUvy41gYSf.png "External Image Example")
-
-
-
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-
-_Cool background, right?_<!-- .element: class="fragment" data-fragment-index="1" -->
-```
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-```
-
-
-
-## Hey, it even supports code!
-
-```
-var marker = L.marker([49, 5.49]).addTo(map);
-var polygon = L.polygon([
-  [51.509, -0.08],
-  [51.503, -0.06],
-  [51.51, -0.047]
-]).addTo(map);
-marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
-polygon.bindPopup("I am a polygon.");
-```
-
-
-
-## Want to see something _really_ crazy?
-
-Press `S` to check out the 'Presentation Mode'.
-
-Note:
-The idea is that you put the other window on a shared screen, like a projector, and view this screen on your laptop. Btw, this note is only visible to the presenter.
-
-
-
-## That's about it
-
-There are a bunch of cool things you can do with **Reveal.js** and **Markdown**.
-
-Check out Reveal.js' [example slides](http://lab.hakim.se/reveal-js/) for more quick examples of what you can do with Reveal.js.  Check out Reveal.js' [Readme](https://github.com/hakimel/reveal.js/blob/master/README.md) and its [wiki](https://github.com/hakimel/reveal.js/wiki) (especially the [Articles & Tutorials](https://github.com/hakimel/reveal.js/wiki/Articles-&-Tutorials) section) for greater detail about using Reveal.js.  
-
-Check out this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick intro into using Markdown.
-
-
 ### Thank you!
 alukach of Maptime Calgary for this presentation template
+
 CUGOS
+
 MaptimeSEA crew 
+
 and others who have helped me!
