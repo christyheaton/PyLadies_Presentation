@@ -39,11 +39,12 @@ _But we needed data for the rest of the world_<!-- .element: class="fragment" da
 
 ### Enter [`Open Street Map`](http://www.openstreetmap.org/)
 
+
 _What is Open Street Map?_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 ## Free and editable web map.
-Croud sourced
+Crowd sourced!
 
 ## You can contribute to it.
 Like Wikipedia!
