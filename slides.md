@@ -15,22 +15,26 @@ _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 _VAR of Pitney Bowes products._<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_Spectrum Spatial._<!-- .element: class="fragment" data-fragment-index="2" -->
+_Spectrum Spatial for Web Mapping._<!-- .element: class="fragment" data-fragment-index="2" -->
 
-_Mapinfo Pro for Desktop Mapping._<!-- .element: class="fragment" data-fragment-index="3" -->
+_MapInfo Pro for Desktop Mapping._<!-- .element: class="fragment" data-fragment-index="3" -->
 
 _Custom applications._<!-- .element: class="fragment" data-fragment-index="4" -->
 
-_Customers are telecom companies._<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
+## The Project
 
-## This is a new slide
-Create these by placing 3 line-breaks in the markdown source.
+A world base map.
 
-_From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="fragment" data-fragment-index="0" -->
+_Using Spectrum Spatial_<!-- .element: class="fragment" data-fragment-index="1" --> 
 
-_Try `DOWN`._ <!-- .element: class="fragment" data-fragment-index="1" -->
+_Need data in TAB format_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_We have Pitney Bowes US base map data_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+_But we needed data for the rest of the world_<!-- .element: class="fragment" data-fragment-index="4" -->
+
 
 
 ## This is a vertical-slide
