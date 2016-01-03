@@ -9,14 +9,18 @@ _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
-## Where I work
+# Where I work
 
-SGSI - Schlosser Geographic Systems Inc
+##SGSI - Schlosser Geographic Systems Inc
 
 _VAR of Pitney Bowes products
+
 _Spectrum Spatial
+
 _Mapinfo Pro for Desktop Mapping
+
 _Custom applications
+
 _Customers are telecom companies
 
 
