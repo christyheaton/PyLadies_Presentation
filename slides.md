@@ -1,7 +1,7 @@
 # Data Disarray
 
 ## Extracting and Making Sense of OSM Data
-This is the first slide.
+By Christy Heaton
 
 _Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
 
