@@ -3,10 +3,6 @@
 ## Extracting and Making Sense of OSM Data
 By Christy Heaton
 
-_Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
-
 
 
 ## Where I work
@@ -95,23 +91,157 @@ _Since this is CUGOS. :-)_<!-- .element: class="fragment" data-fragment-index="1
 Must be run in the Python window in QGIS
 
 
-# QGIS Modules
+## QGIS Modules
 Difficult because documentation is limited
 
 
-# I learned and teach the arcpy module
+## I learned and teach the arcpy module
 Tons of documentation!
 
 
-# I wrote a first version
+## I wrote a first version
 Not Customized
 Pulled out all data
 Datasets too large
 
 
-# I wrote a much longer custom version
+## So I wrote a much longer custom version
 Smaller datasets
 Pulled out just what we needed into separate files
+
+
+
+## Processing
+
+Downloaded data into PostGIS databases.
+
+One per country so they weren't too big.
+
+Python script to extract all the data.
+
+Add to Spectrum Spatial repository.
+
+
+
+## Problems!
+
+Translation to TAB format from OSM data did not work (TAB exporter is old and bad).
+IMAGE
+
+
+## Problems!
+
+Some datasets were huge, produced bad results.
+IMAGE
+
+
+## Problems!
+
+Roads database table only had major roads.
+IMAGE
+
+
+## Problems!
+
+Tags didn’t extract as much as we wanted.
+
+Streets = "highway" like '%residential%' or "highway" like '%service%'
+
+living_street??
+
+IMAGE
+
+
+## Problems!
+
+Points of interest weren’t what we needed.
+IMAGE
+
+
+## Problems!
+
+Large rivers were missing.
+IMAGE
+
+
+## Problems!
+
+All place names had to be in English
+IMAGE
+
+
+## Problems!
+
+Customer needs kept changing 
+IMAGE
+
+
+
+## Fixes
+
+Used FME Universal Translator.
+
+
+## Fixes
+
+Split tables and modified script.
+
+
+## Fixes
+
+Took smaller roads from Line table.
+
+
+## Fixes
+
+Changed tags on roads and water.
+
+
+## Fixes
+
+Used Points of Interest from customer list.
+
+
+## Fixes
+
+Obtained place names from another source.
+
+
+
+## Lessons Learned
+
+_Choose tags carefully_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_Be aware of file size_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_Consider projection_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+_Automate processing_<!-- .element: class="fragment" data-fragment-index="4" -->
+
+_Be flexible_<!-- .element: class="fragment" data-fragment-index="5" -->
+
+
+
+## The Moral of the Story
+
+### _It’s okay because I learned a lot!_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_MapInfo and Spectrum_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_PostGIS and SQL_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+_QGIS Desktop and QGIS Python_<!-- .element: class="fragment" data-fragment-index="4" -->
+
+_OpenStreetMap Data_<!-- .element: class="fragment" data-fragment-index="5" -->
+
+_SHP to TAB conversion_<!-- .element: class="fragment" data-fragment-index="6" -->
+
+
+
+## More Information
+
+Check out my GitHub!
+![alt text](assets/MyGitHub.PNG "My GitHub")
 
 
 
