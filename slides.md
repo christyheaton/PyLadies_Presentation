@@ -9,20 +9,9 @@ _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
-# Data Disarray
-
-## Extracting and Making Sense of OSM Data
-By Christy Heaton
-
-_Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
-
-
-
 ## Where I work
 
-SGSI - Schlosser Geographic Systems Inc
+[`SGSI`](http://www.sgsi.com) - Schlosser Geographic Systems Inc
 
 _VAR of Pitney Bowes products._<!-- .element: class="fragment" data-fragment-index="1" -->
 
