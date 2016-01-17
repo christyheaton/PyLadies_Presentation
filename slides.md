@@ -170,10 +170,10 @@ living_street??
 ![alt text](assets/Fixes1_1.png "Fixes1_1")
 
 
-## Split tables up and modified script to handle them.
+## Split tables up and modified script.
 
-![alt text](assets/Fixes1_2.png "Fixes1_2")
-![alt text](assets/Fixes1_3.png "Fixes1_3")
+![alt text](assets/Fixes1_2.png "Fixes1_2")![alt text](assets/Fixes1_3.png "Fixes1_3")
+
 
 ## Took smaller roads from Line table.
 
@@ -192,6 +192,7 @@ water = ["Water", r"""water is not null or waterway = 'riverbank' or waterway = 
 ## Obtained place names from another source.
 
 ![alt text](assets/Fixes2_2.png "Fixes2_2")
+
 
 
 ## Lessons Learned
