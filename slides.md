@@ -129,7 +129,7 @@ Add to Spectrum Spatial repository.
 # Problems!
 
 
-## Translation to TAB format from OSM data did not work (TAB exporter is old and bad).
+## Translation to TAB format from postGIS did not project correctly.
 ![alt text](assets/Prob1_2.png "Prob1")
 
 
@@ -173,20 +173,28 @@ living_street??
 ## Used FME Universal Translator.
 
 
-## Split tables and modified script.
+## Split tables up and modified script to handle them.
 
+![alt text](assets/Fixes1_2.png "Fixes1_2")
+![alt text](assets/Fixes1_3.png "Fixes1_3")
 
 ## Took smaller roads from Line table.
 
+![alt text](assets/Fixes1_4.png "Fixes1_4")
+
 
 ## Changed tags on roads and water.
-
+water = ["Water", r"""water is not null or waterway = 'riverbank' or waterway = 'channel' or waterway = 'fishing_lake' or waterway = 'lake' or waterway = 'moat' or waterway = 'mill_pond' or waterway = 'pond' or waterway = 'reservoir' or waterway = 'river' or waterway = 'stream' or waterway = 'water' or waterway = 'waterfall' or waterway = 'yes' or 'waterway' = 'weir' or waterway = 'marina' or waterway = 'mooring' or "natural" like '%bay%' or  "natural" like '%water%' or  "landuse" = 'reservoir'"""]
+            
 
 ## Used Points of Interest from customer list.
+
+![alt text](assets/Fixes2_1.png "Fixes2_1")
 
 
 ## Obtained place names from another source.
 
+![alt text](assets/Fixes2_2.png "Fixes2_2")
 
 
 ## Lessons Learned
