@@ -144,8 +144,6 @@ Add to Spectrum Spatial repository.
 
 ## Tags did not extract as much as we wanted.
 
-Streets = "highway" like '%residential%' or "highway" like '%service%'
-
 living_street??
 
 ![alt text](assets/Prob4_1.png "Prob4_1")![alt text](assets/Prob4_2.png "Prob4_2")
@@ -184,6 +182,8 @@ living_street??
 
 ## Changed tags on roads and water.
 water is not null or waterway = 'riverbank' or waterway = 'channel' or waterway = 'fishing_lake' or waterway = 'lake' or waterway = 'moat' or waterway = 'mill_pond' or waterway = 'pond' or waterway = 'reservoir' or waterway = 'river' or waterway = 'stream' or waterway = 'water' or waterway = 'waterfall' or waterway = 'yes' or 'waterway' = 'weir' or waterway = 'marina' or waterway = 'mooring' or "natural" like '%bay%' or  "natural" like '%water%' or  "landuse" = 'reservoir'
+
+![alt text](assets/Prob6_2.png "Prob6_2")
 
 			
 ## Used Points of Interest from customer list.
