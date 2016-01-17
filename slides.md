@@ -96,10 +96,6 @@ Must be run in the Python window in QGIS
 Difficult because documentation is limited
 
 
-## Unlike what I was used to with arcpy
-Tons of documentation!
-
-
 ## I wrote a first version
 Not Customized
 Pulled out all data
@@ -171,6 +167,7 @@ living_street??
 
 
 ## Used FME Universal Translator.
+![alt text](assets/Fixes1_1.png "Fixes1_1")
 
 
 ## Split tables up and modified script to handle them.
