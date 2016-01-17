@@ -97,8 +97,11 @@ Difficult because documentation is limited
 
 
 ## I wrote a first version
+
 Not Customized
+
 Pulled out all data
+
 Datasets too large
 
 
@@ -114,7 +117,7 @@ Pulled out just what we needed into separate files
 
 Downloaded data into PostGIS databases.
 
-One per country so they weren't too big.
+One per country to reduce file size.
 
 Python script to extract all the data.
 
@@ -143,8 +146,7 @@ Streets = "highway" like '%residential%' or "highway" like '%service%'
 
 living_street??
 
-![alt text](assets/Prob4_1.png "Prob4_1")
-![alt text](assets/Prob4_2.png "Prob4_2")
+![alt text](assets/Prob4_1.png "Prob4_1")![alt text](assets/Prob4_2.png "Prob4_2")
 
 
 ## Points of interest were not what we needed.
@@ -181,7 +183,7 @@ living_street??
 
 
 ## Changed tags on roads and water.
-water = ["Water", r"""water is not null or waterway = 'riverbank' or waterway = 'channel' or waterway = 'fishing_lake' or waterway = 'lake' or waterway = 'moat' or waterway = 'mill_pond' or waterway = 'pond' or waterway = 'reservoir' or waterway = 'river' or waterway = 'stream' or waterway = 'water' or waterway = 'waterfall' or waterway = 'yes' or 'waterway' = 'weir' or waterway = 'marina' or waterway = 'mooring' or "natural" like '%bay%' or  "natural" like '%water%' or  "landuse" = 'reservoir'"""]
+water is not null or waterway = 'riverbank' or waterway = 'channel' or waterway = 'fishing_lake' or waterway = 'lake' or waterway = 'moat' or waterway = 'mill_pond' or waterway = 'pond' or waterway = 'reservoir' or waterway = 'river' or waterway = 'stream' or waterway = 'water' or waterway = 'waterfall' or waterway = 'yes' or 'waterway' = 'weir' or waterway = 'marina' or waterway = 'mooring' or "natural" like '%bay%' or  "natural" like '%water%' or  "landuse" = 'reservoir'
             
 
 ## Used Points of Interest from customer list.
