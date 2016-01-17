@@ -96,7 +96,7 @@ Must be run in the Python window in QGIS
 Difficult because documentation is limited
 
 
-## I learned and teach the arcpy module
+## Unlike what I was used to with arcpy
 Tons of documentation!
 
 
@@ -130,18 +130,15 @@ Add to Spectrum Spatial repository.
 
 
 ## Translation to TAB format from OSM data did not work (TAB exporter is old and bad).
-
-IMAGE
+![alt text](assets/Prob1_2.png "Prob1")
 
 
 ## Some datasets were huge, produced bad results.
-
-IMAGE
+![alt text](assets/Prob2.png "Prob2")
 
 
 ## Roads database table only had major roads.
-
-IMAGE
+![alt text](assets/Prob3.png "Prob3")
 
 
 ## Tags did not extract as much as we wanted.
@@ -150,27 +147,23 @@ Streets = "highway" like '%residential%' or "highway" like '%service%'
 
 living_street??
 
-IMAGE
+![alt text](assets/Prob4_1.png "Prob4_1")
+![alt text](assets/Prob4_2.png "Prob4_2")
 
 
 ## Points of interest were not what we needed.
 
-IMAGE
+![alt text](assets/Prob5.png "Prob5")
 
 
 ## Large rivers were missing.
 
-IMAGE
+![alt text](assets/Prob6_1.png "Prob6_1")
 
 
 ## All place names had to be in English
 
-IMAGE
-
-
-## Customer needs kept changing.
-
-IMAGE
+![alt text](assets/Prob7.png "Prob7")
 
 
 
