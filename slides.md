@@ -96,7 +96,7 @@ Must be run in the Python window in QGIS
 Difficult because documentation is limited
 
 
-## I wrote a first version
+## I wrote a [`first version`](https://github.com/christyheaton/PostGIS_Tab_Convert/blob/master/Export_All.py)
 
 Not Customized
 
@@ -105,11 +105,13 @@ Pulled out all data
 Datasets too large
 
 
-## So I wrote a much longer custom version
+## So I wrote a [`much longer custom version`](https://github.com/christyheaton/PostGIS_Tab_Convert/blob/master/Export_Custom.py)
 
 Smaller datasets
 
 Pulled out just what we needed into separate files
+
+![alt text](assets/shps1.png "Shps1")
 
 
 
@@ -132,7 +134,7 @@ Add to Spectrum Spatial repository.
 ![alt text](assets/Prob1_2.png "Prob1")
 
 
-## Some datasets were huge, produced bad results.
+## Some datasets were huge, produced incomplete results.
 ![alt text](assets/Prob2.png "Prob2")
 
 
@@ -173,27 +175,22 @@ living_street??
 
 
 ## Split tables up and modified script.
-
 ![alt text](assets/Fixes1_2.png "Fixes1_2")![alt text](assets/Fixes1_3.png "Fixes1_3")
 
 
 ## Took smaller roads from Line table.
-
 ![alt text](assets/Fixes1_4.png "Fixes1_4")
 
 
 ## Changed tags on roads and water.
 water is not null or waterway = 'riverbank' or waterway = 'channel' or waterway = 'fishing_lake' or waterway = 'lake' or waterway = 'moat' or waterway = 'mill_pond' or waterway = 'pond' or waterway = 'reservoir' or waterway = 'river' or waterway = 'stream' or waterway = 'water' or waterway = 'waterfall' or waterway = 'yes' or 'waterway' = 'weir' or waterway = 'marina' or waterway = 'mooring' or "natural" like '%bay%' or  "natural" like '%water%' or  "landuse" = 'reservoir'
-            
 
 			
 ## Used Points of Interest from customer list.
-
 ![alt text](assets/Fixes2_1.png "Fixes2_1")
 
 
 ## Obtained place names from another source.
-
 ![alt text](assets/Fixes2_2.png "Fixes2_2")
 
 
