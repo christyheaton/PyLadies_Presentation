@@ -9,13 +9,13 @@ By Christy Heaton
 
 [`SGSI`](http://www.sgsi.com) - Schlosser Geographic Systems Inc
 
-_VAR of Pitney Bowes products._<!-- .element: class="fragment" data-fragment-index="1" -->
+_VAR of Pitney Bowes products_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_Spectrum Spatial for Web Mapping._<!-- .element: class="fragment" data-fragment-index="2" -->
+_Spectrum Spatial for Web Mapping_<!-- .element: class="fragment" data-fragment-index="2" -->
 
-_MapInfo Pro for Desktop Mapping._<!-- .element: class="fragment" data-fragment-index="3" -->
+_MapInfo Pro for Desktop Mapping_<!-- .element: class="fragment" data-fragment-index="3" -->
 
-_Custom applications._<!-- .element: class="fragment" data-fragment-index="4" -->
+_Custom applications_<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
@@ -73,19 +73,17 @@ _`Web maps!`_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ## Processing
 
-_Downloaded data into PostGIS databases._<!-- .element: class="fragment" data-fragment-index="1" -->
+_Downloaded data into PostGIS databases_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_One per country so they weren't too big._<!-- .element: class="fragment" data-fragment-index="2" -->
+_One per country so they weren't too big_<!-- .element: class="fragment" data-fragment-index="2" -->
 
-_Python script to extract all the data._<!-- .element: class="fragment" data-fragment-index="3" -->
+_Python script to extract all the data_<!-- .element: class="fragment" data-fragment-index="3" -->
 
-_Add to Spectrum Spatial repository._<!-- .element: class="fragment" data-fragment-index="4" -->
+_Add to Spectrum Spatial repository_<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
 ## More on my Python script
-
-_Since this is CUGOS. :-)_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 ## Uses QGIS
