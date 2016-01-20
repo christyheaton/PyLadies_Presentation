@@ -22,7 +22,7 @@ _Custom applications_<!-- .element: class="fragment" data-fragment-index="4" -->
 
 ## The Project
 
-A world base map.
+A world base map
 
 _Using Spectrum Spatial_<!-- .element: class="fragment" data-fragment-index="1" --> 
 
@@ -40,11 +40,11 @@ _But we needed data for the rest of the world_<!-- .element: class="fragment" da
 ## What is [`Open Street Map`](http://www.openstreetmap.org/)?
 
 
-## Free and editable web map.
+## Free and editable web map
 _Crowd sourced!_<!-- .element: class="fragment" data-fragment-index="1" --> 
 
 
-## You can contribute to it.
+## You can contribute to it
 _Like Wikipedia!_<!-- .element: class="fragment" data-fragment-index="1" --> 
 
 
@@ -115,44 +115,44 @@ Pulled out just what we needed into separate files
 
 ## Processing
 
-Downloaded data into PostGIS databases.
+Downloaded data into PostGIS databases
 
-One per country to reduce file size.
+One per country to reduce file size
 
-Python script to extract all the data.
+Python script to extract all the data
 
-Add to Spectrum Spatial repository.
+Add to Spectrum Spatial repository
 
 
 
 # Problems!
 
 
-## Translation to TAB format from postGIS did not project correctly.
+## Translation to TAB format from postGIS did not project correctly
 ![alt text](assets/Prob1_2.png "Prob1")
 
 
-## Some datasets were huge, produced incomplete results.
+## Some datasets were huge, produced incomplete results
 ![alt text](assets/Prob2.png "Prob2")
 
 
-## Roads database table only had major roads.
+## Roads database table only had major roads
 ![alt text](assets/Prob3.png "Prob3")
 
 
-## Tags did not extract as much as we wanted.
+## Tags did not extract as much as we wanted
 
 living_street??
 
 ![alt text](assets/Prob4_1.png "Prob4_1")![alt text](assets/Prob4_2.png "Prob4_2")
 
 
-## Points of interest were not what we needed.
+## Points of interest were not what we needed
 
 ![alt text](assets/Prob5.png "Prob5")
 
 
-## Large rivers were missing.
+## Large rivers were missing
 
 ![alt text](assets/Prob6_1.png "Prob6_1")
 
@@ -166,29 +166,29 @@ living_street??
 # Fixes
 
 
-## Used FME Universal Translator.
+## Used FME Universal Translator
 ![alt text](assets/Fixes1_1.png "Fixes1_1")
 
 
-## Split tables up and modified script.
+## Split tables up and modified script
 ![alt text](assets/Fixes1_2.png "Fixes1_2")![alt text](assets/Fixes1_3.png "Fixes1_3")
 
 
-## Took smaller roads from Line table.
+## Took smaller roads from Line table
 ![alt text](assets/Fixes1_4.png "Fixes1_4")
 
 
-## Changed tags on roads and water.
+## Changed tags on roads and water
 water is not null or waterway = 'riverbank' or waterway = 'channel' or waterway = 'fishing_lake' or waterway = 'lake' or waterway = 'moat' or waterway = 'mill_pond' or waterway = 'pond' or waterway = 'reservoir' or waterway = 'river' or waterway = 'stream' or waterway = 'water' or waterway = 'waterfall' or waterway = 'yes' or 'waterway' = 'weir' or waterway = 'marina' or waterway = 'mooring' or "natural" like '%bay%' or  "natural" like '%water%' or  "landuse" = 'reservoir'
 
 ![alt text](assets/Prob6_2.png "Prob6_2")
 
 			
-## Used Points of Interest from customer list.
+## Used Points of Interest from customer list
 ![alt text](assets/Fixes2_1.png "Fixes2_1")
 
 
-## Obtained place names from another source.
+## Obtained place names from another source
 ![alt text](assets/Fixes2_2.png "Fixes2_2")
 
 
