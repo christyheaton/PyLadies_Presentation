@@ -1,6 +1,6 @@
 # Data Disarray
 
-## Extracting and Making Sense of OSM Data
+## Using Python to Extract Open Street Map Data
 By Christy Heaton
 
 
